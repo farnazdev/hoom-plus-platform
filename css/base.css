@@ -1,0 +1,188 @@
+/* sahel font */
+@font-face {
+    font-family: Sahel;
+    src: url('../font/Sahel.eot');
+    src: url('../font/Sahel.eot?#iefix') format('embedded-opentype'),
+         url('../font/Sahel.woff') format('woff'),
+         url('../font/Sahel.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Sahel;
+    src: url('../font/Sahel-Bold.eot');
+    src: url('../font/Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/Sahel-Bold.woff') format('woff'),
+        url('../font/Sahel-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Sahel;
+    src: url('../font/Sahel-Black.eot');
+    src: url('../font/Sahel-Black.eot?#iefix') format('embedded-opentype'),
+        url('../font/Sahel-Black.woff') format('woff'),
+        url('../font/Sahel-Black.ttf') format('truetype');
+    font-weight: 900;
+}
+
+body{
+    font-family: Sahel, Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.main{
+    display: block;
+    width: 290px;
+    height: 100%;
+    margin: auto;
+}.head{
+    margin: 20px auto ;
+}
+
+/* menu */
+.menu{
+    position: fixed;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    width: 100%;
+    margin: auto;
+    transition: transform 1s ease;
+    z-index: 100;
+    color: #d1d4d7;
+    background-color: white;
+    transform: translateX(100%);
+}.menu.active{
+    transform: translateX(0);
+    display: block;
+    margin: auto;
+   
+}
+.menu li{
+    list-style: none;
+}
+/* menu profile */
+.menu .profile{
+    background-color: #0c6c61;
+    border-radius: 0 0 20px 20px ;
+    padding-bottom: 10px;
+}.menu .profileDetail{
+    display: flex;
+    gap: 10px;
+}.credit{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    color: white;
+}.credit span{
+    margin-right: 20px;
+    color: white;
+}.credit button{
+    border: none ;
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: black;
+    height: 2.5em;
+    margin-top: 10px;
+}
+.profile span.person{
+    font-size: 45px;
+    color: white;
+    margin-right: 20px;
+}.profile span.back{
+    font-size: 30px;
+    color: white;
+    position: fixed;
+    left: 20px;
+}
+
+
+/* general */
+input, button{
+    font-family: Sahel, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: medium;
+    display: inline-block;
+    width: 65%;
+    text-align: center;
+}
+span{
+    margin-top: 5px;
+    transform: translateY(8px);
+    color: black;
+}
+
+.units{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    width: 100%;
+}
+.unit{
+    width: 100%;
+    margin: auto;
+    box-shadow: 0px 0px 6px #3e3e3e;
+    height: 70px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    cursor: pointer;
+
+}
+
+
+
+
+input[type="text"]:focus {
+    border-color: #0c6c61; 
+}
+.asctrocyteLogo{
+    width: 80%;
+    display: block;
+    margin: 70px auto 40px;
+}
+
+/* for error handling: */
+.error p{
+    color: #6c220c;
+    font-size: small;
+}
+
+
+
+
+
+
+/* responsive menu */
+@media screen and (min-width: 500px) {
+    .menu {
+        position: fixed;
+        height: 100vh;
+        width: 310px;
+        top: 0;
+        right: 0;
+        transition: all 1s ease;
+        z-index: 100;
+        color: #d1d4d7;
+        background-color: white;
+    }
+    .menu.active{
+        left: 50%;
+        right: auto;
+        transform: translate(-50%, 0);
+        border: 0.5px solid #0c6c61;
+    }
+}

@@ -1,0 +1,207 @@
+[05-Jun-2025 11:56:15 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/app/controllers/LoginController.php on line 32
+[05-Jun-2025 11:56:15 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tzcddjfo/public_html/hoomPlus/app/controllers/LoginController.php:32) in /home3/tzcddjfo/public_html/hoomPlus/register.php on line 37
+[05-Jun-2025 12:30:12 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/app/controllers/LoginController.php on line 32
+[05-Jun-2025 12:30:12 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tzcddjfo/public_html/hoomPlus/app/controllers/LoginController.php:32) in /home3/tzcddjfo/public_html/hoomPlus/register.php on line 37
+[05-Jun-2025 12:33:22 Asia/Tehran] PHP Warning:  Undefined array key 0 in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[05-Jun-2025 12:33:22 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[05-Jun-2025 12:33:22 Asia/Tehran] PHP Warning:  Undefined array key 0 in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[05-Jun-2025 12:33:22 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[05-Jun-2025 12:33:22 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[05-Jun-2025 12:33:22 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:08:33 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/tzcddjfo/public_html/hoomPlus/register.php:16) in /home3/tzcddjfo/public_html/hoomPlus/register.php on line 33
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Undefined array key "model_name" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 121
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Undefined array key "unique_qr_code" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 122
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:23:55 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Undefined array key "model_name" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 121
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Undefined array key "unique_qr_code" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 122
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:24:38 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Undefined array key "model_name" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 121
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Undefined array key "unique_qr_code" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 122
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:26:55 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 118
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Undefined array key "model_name" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 121
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Undefined array key "unique_qr_code" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 122
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Undefined array key "action_groups" in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[06-Jun-2025 01:29:14 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 132
+[11-Jun-2025 09:34:53 Asia/Tehran] PHP Warning:  Array to string conversion in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 204
+[11-Jun-2025 09:34:53 Asia/Tehran] PHP Warning:  Array to string conversion in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 204
+[11-Jun-2025 09:35:24 Asia/Tehran] PHP Warning:  Array to string conversion in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 204
+[11-Jun-2025 09:35:24 Asia/Tehran] PHP Warning:  Array to string conversion in /home3/tzcddjfo/public_html/hoomPlus/info.php on line 204
+[11-Jun-2025 12:27:16 Asia/Tehran] PHP Warning:  require_once(app/LoginModel.php): Failed to open stream: No such file or directory in /home3/tzcddjfo/public_html/hoomPlus/export_info.php on line 5
+[11-Jun-2025 12:27:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required 'app/LoginModel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/tzcddjfo/public_html/hoomPlus/export_info.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/tzcddjfo/public_html/hoomPlus/export_info.php on line 5
+[11-Jun-2025 12:27:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "LoginModel" not found in /home3/tzcddjfo/public_html/hoomPlus/export_info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/tzcddjfo/public_html/hoomPlus/export_info.php on line 20
+[11-Jun-2025 12:27:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "LoginModel" not found in /home3/tzcddjfo/public_html/hoomPlus/export_info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/tzcddjfo/public_html/hoomPlus/export_info.php on line 20
+[11-Jun-2025 12:37:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "LoginModel" not found in /home3/tzcddjfo/public_html/hoomPlus/export_info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/tzcddjfo/public_html/hoomPlus/export_info.php on line 20
+[11-Jun-2025 12:41:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "LoginModel" not found in /home3/tzcddjfo/public_html/hoomPlus/export_info.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/tzcddjfo/public_html/hoomPlus/export_info.php on line 20
+[12-Jun-2025 15:42:37 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('900000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:42:50 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('900000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:45:10 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('900000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:45:33 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:45:37 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:45:42 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:48:13 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:48:32 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:48:37 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(89): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:51:38 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:51:39 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:51:41 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:54:20 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:54:24 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:55:24 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:55:34 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 15:59:00 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(93): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 16:04:37 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(96): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 16:05:08 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(96): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 16:06:59 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(75): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(110): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
+[12-Jun-2025 16:09:40 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: number_format() expects parameter 1 to be float, string given in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:76
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php(76): number_format('850000')
+#1 /home3/hoshiser/public_html/hoomPlus/charge.php(110): UnitsView->show_factors()
+#2 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 76
+[12-Jun-2025 16:10:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function float() in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php:75
+Stack trace:
+#0 /home3/hoshiser/public_html/hoomPlus/charge.php(110): UnitsView->show_factors()
+#1 {main}
+  thrown in /home3/hoshiser/public_html/hoomPlus/app/views/UnitsView.php on line 75
