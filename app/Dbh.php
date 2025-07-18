@@ -1,8 +1,8 @@
 <?php
 class Dbh {
-    private $dsn = "mysql:host=localhost;dbname=hoshiser_hoomPlus;charset=utf8mb4";
-    private $username = "hoshiser_hoomplus";
-    private $password = "K_k721xQnM5+";
+    private $dsn = "mysql:host=XXX;dbname=XXX;charset=utf8mb4";
+    private $username = "XXX";
+    private $password = "XXX";
     private $pdo;
 
     public function __construct() {
