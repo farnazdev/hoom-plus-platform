@@ -89,9 +89,8 @@ Address
 Login with phone and OTP system
 Note: The device information does not belong to you and it is for display purposes only.
 
-Execute
 
-📎 [View](https://drive.google.com/file/d/1T2V1Db3a_LuKWZw0_7plCQ56kvqM79tH/view?usp=sharing)
+📎 [Execute](https://drive.google.com/file/d/1T2V1Db3a_LuKWZw0_7plCQ56kvqM79tH/view?usp=sharing)
 
 
 ---
@@ -99,9 +98,8 @@ Execute
 
 ## Documents
 
-Review
 
-[View](https://docs.google.com/document/d/1-R0Kp-lWL_k-2z7N5YXe99F7Tg6VHmIu3iwWe059TkI/edit?usp=sharing)
+[Review](https://docs.google.com/document/d/1-R0Kp-lWL_k-2z7N5YXe99F7Tg6VHmIu3iwWe059TkI/edit?usp=sharing)
 
 
 
@@ -112,7 +110,6 @@ Review
 
 ## Hoom App
 
-Address
 
 📎 [Download from bazzar](https://cafebazaar.ir/app/com.hoom)
 
