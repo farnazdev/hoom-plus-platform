@@ -11,16 +11,18 @@ Note: With a mobile design because most users access this platform via mobile.
 
 ## Features
 
-🏠 Register and manage apartment units
-💳 View and track utility bills via Ghabzino
-💬 Auto-send charge messages to Bale channels
-🧾 Generate and manage unit-specific invoices
-🔐 Secure OTP-based login (no password needed)
-🔌 Sync with Hoom smart devices to view device & user info
-🧰 Submit service forms (returns, installer requests - Hiva Co.)
-📱 Seamless integration with the Hoom app (Bazaar & App Store)
+- 🏠 Register and manage apartment units
+- 💳 View and track utility bills via Ghabzino
+- 💬 Auto-send charge messages to Bale channels
+- 🧾 Generate and manage unit-specific invoices
+- 🔐 Secure OTP-based login (no password needed)
+- 🔌 Sync with Hoom smart devices to view device & user info
+- 🧰 Submit service forms (returns, installer requests - Hiva Co.)
+- 📱 Seamless integration with the Hoom app (Bazaar & App Store)
+
 
 ---
+
 
 ## How It Works
 
@@ -31,18 +33,22 @@ Note: With a mobile design because most users access this platform via mobile.
 5. Users with Hoom devices can see device info and authorized users
 6. Support requests (like return or installer forms) are submitted to Hiwa
 
+
 ---
+
 
 ## Logs
 
 System keeps track of:
-📅 OTP login attempts
-💸 Charge creation and message delivery
-🧾 Invoice generation and updates
-📤 Support form submissions
-🔁 Device sync events with Hoom API
+- 📅 OTP login attempts
+- 💸 Charge creation and message delivery
+- 🧾 Invoice generation and updates
+- 📤 Support form submissions
+- 🔁 Device sync events with Hoom API
+
 
 ---
+
 
 ## Requirements
 
@@ -56,7 +62,9 @@ OTP provider (e.g. SMS gateway)
 Hoom device API
 Database: MySQL
 
+
 ---
+
 
 ## Testing
 
@@ -66,7 +74,9 @@ Database: MySQL
 - Connect to mock Hoom device to test sync
 - Submit test support forms (e.g., request return)
 
+
 ---
+
 
 ## Demo
 
@@ -93,7 +103,11 @@ Review
 [View](https://docs.google.com/document/d/1-R0Kp-lWL_k-2z7N5YXe99F7Tg6VHmIu3iwWe059TkI/edit?usp=sharing)
 
 
+
+
 ---
+
+
 
 ## Hoom App
 
