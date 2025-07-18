@@ -47,13 +47,13 @@
                         اطلاعات دستگاه ها   
                     </li>
                 </a>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4FKoFBDPs2p_1-pqRcEKS9aOenTaH9k9gY0xSPHXUZNPMVw/viewform">
+                <a href="XXX">
                     <li>
                         <span class="material-icons">construction</span>
                         درخواست نصاب     
                     </li>
                 </a>
-                <a href="https://hoshikala.com/product-category/products/door-smart-controler/">
+                <a href="XXX">
                     <li>
                         <span class="material-icons">shopping_cart</span>
                         خرید دستگاه     

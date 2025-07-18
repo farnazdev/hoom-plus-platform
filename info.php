@@ -187,8 +187,8 @@ function displayAnalyzedFields($data) {
 
 
 
-    $apiUrl = "http://95.211.99.154:8001/api/device-details/by-phone/";
-    // $apiUrl .= "09366774986";
+    $apiUrl = "XXX";
+
     $apiUrl .= $_SESSION['user_info']['phone'];
 
 
